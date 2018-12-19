@@ -1,0 +1,2 @@
+2|Molson|John|456985236|5148825220|john@gmail.com|6/22/1985|8/12/2002|5891|Rue Garnier|10|H2J8K6|Montréal|QC|Analyste|68000|
+3|Donald|Obama|456985963|5148824789|Donald@gmail.com|6/22/1964|8/12/2016|7896|Avenue de Mont Royal|2|H2J8K6|Montréal|QC|Programmeur|68000|

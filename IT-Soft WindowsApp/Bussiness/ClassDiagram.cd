@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IT_Soft_WindowsApp.Bussiness.Adresse" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAEAAEAABAAAAQAAAAEAAAAAAAAAAQAgAAAEI=</HashCode>
+      <FileName>Bussiness\Adresse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IT_Soft_WindowsApp.Bussiness.Date" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAJAAAAAAEAAAAAAAAAAQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Bussiness\Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IT_Soft_WindowsApp.Bussiness.Personnel" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKgAAAgIAAAIAAAAAAIEAAACJQIAACECAAAQAACgE=</HashCode>
+      <FileName>Bussiness\Personnel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IT_Soft_WindowsApp.Bussiness.PersonnelPermanent" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAIACAAAEAAAAAAAAAAAAAAgAAAgIAAIAAAA=</HashCode>
+      <FileName>Bussiness\PersonnelsPermanents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IT_Soft_WindowsApp.Bussiness.PersonnelTemporaire" Collapsed="true">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAIAAgAAEAAgAAAAIAAAAAAAAAAgAAAIAAAA=</HashCode>
+      <FileName>Bussiness\PersonnelsTemporaires.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IT_Soft_WindowsApp.Bussiness.Sequences" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAEAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Bussiness\Sequences.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="IT_Soft_WindowsApp.Bussiness.EnumTypePersonnel" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAACA=</HashCode>
+      <FileName>Bussiness\EnumTypePersonnel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="IT_Soft_WindowsApp.Bussiness.FonctionsPermanents" Collapsed="true">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Bussiness\FonctionsPermanents.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="IT_Soft_WindowsApp.Bussiness.Listesdesprovinces" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQCAIAAAAAAAAAAACAAAAAAAAEAAAJAI=</HashCode>
+      <FileName>Bussiness\Listesdesprovinces.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,18 @@
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Travaux\Projet P34\IT-Soft WindowsApp\IT-Soft WindowsApp\bin\Debug\IT-Soft WindowsApp.exe.config
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Travaux\Projet P34\IT-Soft WindowsApp\IT-Soft WindowsApp\bin\Debug\IT-Soft WindowsApp.exe
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Travaux\Projet P34\IT-Soft WindowsApp\IT-Soft WindowsApp\bin\Debug\IT-Soft WindowsApp.pdb
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Travaux\Projet P34\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT-Soft WindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Travaux\Projet P34\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT_Soft_WindowsApp.Form1.resources
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Travaux\Projet P34\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT_Soft_WindowsApp.Properties.Resources.resources
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Travaux\Projet P34\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT-Soft WindowsApp.csproj.GenerateResource.Cache
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Travaux\Projet P34\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT-Soft WindowsApp.exe
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Travaux\Projet P34\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT-Soft WindowsApp.pdb
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Projet\IT-Soft WindowsApp\IT-Soft WindowsApp\bin\Debug\IT-Soft WindowsApp.exe.config
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Projet\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT-Soft WindowsApp.exe
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Projet\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT-Soft WindowsApp.pdb
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Projet\IT-Soft WindowsApp\IT-Soft WindowsApp\bin\Debug\IT-Soft WindowsApp.exe
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Projet\IT-Soft WindowsApp\IT-Soft WindowsApp\bin\Debug\IT-Soft WindowsApp.pdb
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Projet\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT-Soft WindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Projet\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT_Soft_WindowsApp.Form1.resources
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Projet\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT_Soft_WindowsApp.Properties.Resources.resources
+C:\Users\Lyes\Desktop\Collège Lasalle\3e Session\Programmation Orienté Objet Avancée\Projet\IT-Soft WindowsApp\IT-Soft WindowsApp\obj\Debug\IT-Soft WindowsApp.csproj.GenerateResource.Cache
